@@ -1,12 +1,17 @@
 {
   "name": "mtp",
   "version": "1.0.0",
-  "type":"moduel",
+  "type": "module",
   "description": "Мой первый проект на Хекслете",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Pavel Serdyyukov, 2021",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {},
+  "keywords": []
 }
